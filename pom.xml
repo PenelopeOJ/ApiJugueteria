@@ -61,7 +61,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>5.4.8.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<!-- Procesar Jsons -->
 		<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-json-jackson -->
